@@ -3,6 +3,17 @@ READ ME
 Christine Kim (ck2980)
 
                          SCHEDULE TEST
+PROGRAM DESCRIPTION:
+Imagine you are a conference organizer and you are tasked with scheduling the largest possible subset from a set of talks all in the same room. Each talk in the set has a given start time and end time. These times cannot change. No talks that have times that overlap can be scheduled in the same room. For the sake of this assignment assume that one talk can begin instantly upon completion of the previous talk. Consider the example below with three talks in the set:
+
+Talks:
+
+1. Fred Flinstone 9:00AM-11AM
+2. Barney Rubble 10:30AM-4PM
+3. Bam Bam Rubble 1PM-1:15PM
+
+The optimal schedule (the one that schedules the most talks) in this example would be to schedule Fred’s talk and Bam Bam’s talk. Note: Optimal does NOT mean the room is used for the longest time, it means the greatest possible number of talks are scheduled.
+                         
                          
 INSTRUCTIONS
 
